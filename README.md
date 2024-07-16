@@ -18,7 +18,7 @@ This Python application scans directories for a specific virus signature and hig
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/virus-scanner-gui.git
+    git clone https://github.com/girish.jks/virus-scanner-gui.git
     ```
 2. Navigate to the project directory:
     ```sh
